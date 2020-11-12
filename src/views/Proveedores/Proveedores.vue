@@ -52,7 +52,7 @@
             <ion-card>
       <ion-card-header>
         <ion-card-subtitle>Proveedores</ion-card-subtitle>
-        <ion-card-title>Card Title</ion-card-title>
+        <ion-card-title>Equipo dinamita</ion-card-title>
       </ion-card-header>
 
       <ion-card-content>
