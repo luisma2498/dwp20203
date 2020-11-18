@@ -139,6 +139,27 @@ export default defineComponent({
         precio: "17,000",
         src: "/Img/relojm.jpg",
       },
+       {
+        title: "Arracadas de oro amarillo",
+        text: "14k",
+        referencia: "A5O9",
+        precio: "3000",
+        src: "/Img/aretes.jpg",
+      },
+      {
+        title: "Aretes de oro, corazon mediano",
+        text: "10k",
+        referencia: "A5O9",
+        precio: "940",
+        src: "/Img/aretes1.jpg",
+      },
+      {
+        title: "Aretes de oro, diamante esmeralda",
+        text: "14k",
+        referencia: "O6N2",
+        precio: "11,591",
+        src: "/Img/aretes2.jpg",
+      },
     ];
     return { items };
   },
